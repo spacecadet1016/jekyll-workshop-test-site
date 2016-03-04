@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Shane is Awesome
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+This is a brazen attempt to create a [Jekyll](http://jekyllrb.com) website so I (don't have to) can write my dissertation.
 
 ### Built on Poole
 
